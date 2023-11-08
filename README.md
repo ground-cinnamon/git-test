@@ -1,4 +1,3 @@
 # git-test
 
-- ghgh
-- ghgh
+Hello, Odin
